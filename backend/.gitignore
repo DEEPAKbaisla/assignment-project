@@ -1,0 +1,12 @@
+# Secrets (never commit real keys; .env.example IS committed as a template)
+.env
+.env.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+
