@@ -6,8 +6,8 @@ staying completely truthful to your actual experience.
 
 **Live app:** _add your deployed URLs here after deploying (see [Deployment](#deployment))_
 
-- Frontend: `https://<your-frontend>.vercel.app`
-- Backend API: `https://<your-backend>.onrender.com` (interactive docs at `/docs`)
+- Frontend: `https://frontend-iota-ebon-23.vercel.app`
+- Backend API: `https://assignment-project-t2mv.onrender.com/` (interactive docs at `/docs`)
 
 ## What it does
 
